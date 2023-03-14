@@ -1,6 +1,6 @@
 # Python-ADB-Message-Sending-Demo
 
-Anyone controlling a device via ADB, can use python to send the messages and collect the result. In this example I show how to request 2 items from the device.
+Anyone controlling a device via ADB, can use python to send the messages and collect the result. In this example I show how to request 2 items from the device, using ADB via USB.
 
 uptime
 
